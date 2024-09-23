@@ -1,4 +1,4 @@
-# Day 13: HTML Previewer
+ HTML Previewer
 
 **Description:** A simple code to HTML previewer.
 
